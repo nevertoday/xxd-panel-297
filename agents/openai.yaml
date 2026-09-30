@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 297"
+  short_description: "闭合暗号：上半保留原照，下半把主体收成需要补全的视觉暗号"
+  default_prompt: "Use $xxd-panel-297 to transform my photograph following the complete canonical source brief."
