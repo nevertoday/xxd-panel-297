@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 297｜Closure Cipher: keeps the photo and leaves its subject as one minimal visual cipher the viewer completes through Gestalt closure — only the identity-defining outline, posture, direction or structural feature, with gaps, broken contours and dissolving parts — drawn in calligraphic, gestural charcoal and graphite strokes with speed and direction plus a little dry brush and paper grain, clear negative shapes and only the geometry it needs, in black and grey on warm white with one faint emotional colour from the photo, very small, off-centre, at the edge or cropped in extreme whitespace, with a tiny restrained word or number. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-297 or asks for a Gestalt-closure mark, broken-outline calligraphic symbol or minimal charcoal cipher from a photo.",
+  "short_description": "闭合暗号：把照片主体收成轮廓断裂、要观者自己补全的炭笔书法小暗号",
+  "zh-CN": {
+    "name": "闭合暗号",
+    "tagline": "把照片主体收成一个轮廓断开、需要看的人自己补全的视觉暗号。",
+    "look": "原照片保留；只留下决定身份的关键形态：一个轮廓、一段姿态、一种方向或一处结构特征。形体可以缺失、局部消散、轮廓断开，让人靠格式塔闭合自己把它看完整。笔触是有力度、速度和方向的书法与炭笔痕迹，不是均匀描边，带一点石墨、干刷和纸面颗粒，负形清晰，只保留必要的几何关系。暖白纸上以黑灰为主，加一种很淡的情绪色。符号可以很小、偏心、贴边或被裁切，留白极大，旁边一个细小克制的字或编号。",
+    "traits": ["断裂轮廓", "格式塔", "书法笔触", "炭笔石墨", "极端留白"],
+    "good": [
+      "轮廓本身就很好认的主体：一只猫的侧影、一个人的背影、一座山的轮廓",
+      "有明确方向感的对象：转身的人、低头吃草的鹿、斜飞的燕子",
+      "想做成艺术品牌标志、私人印记或艺术家签名式符号的照片"
+    ],
+    "poor": [
+      "轮廓模糊、靠细节或颜色区分的照片，断开后会认不出来",
+      "需要完整描绘或清楚交代内容的用途",
+      "想要商业图标、卡通、过度几何化或光滑矢量 Logo 的需求"
+    ]
+  },
+  "en": {
+    "name": "Closure Cipher",
+    "tagline": "Leaves the subject of your photo as a broken-outline cipher that the viewer completes in their own mind.",
+    "look": "Your photo stays; only the forms that define identity remain: one outline, one posture, one direction or one structural feature. Parts may be missing, fade away or break off, so the eye closes the shape by itself, the way Gestalt closure works. The strokes are calligraphic and charcoal marks with force, speed and direction, not an even outline, with a little graphite, dry brush and paper grain, clear negative shapes and only the geometry it needs. Black and grey dominate the warm white paper, with one faint emotional colour. The sign can be very small, off-centre, against an edge or cropped, in vast whitespace, with one small, restrained word or number.",
+    "traits": ["Broken outline", "Gestalt closure", "Calligraphic stroke", "Charcoal and graphite", "Extreme whitespace"],
+    "good": [
+      "Subjects whose outline alone is recognisable: a cat in profile, a person seen from behind, the shape of a mountain",
+      "Things with a clear sense of direction: someone turning, a deer lowering its head to graze, a swallow in a slanting dive",
+      "Photos you want as an art-brand mark, a personal seal or an artist's signature-style symbol"
+    ],
+    "poor": [
+      "Photos with a vague outline that rely on detail or colour, which become unreadable once broken",
+      "Uses that need a complete drawing or a clear explanation of the content",
+      "Requests for commercial icons, cartoons, heavy geometry or a smooth vector logo"
+    ]
+  },
+  "ja": {
+    "name": "閉じる暗号",
+    "tagline": "写真の主役を、輪郭が途切れていて、見る人が自分で補って完成させる視覚の暗号にします。",
+    "look": "元の写真は残し、正体を決める形だけを残します。輪郭ひとつ、姿勢ひとつ、方向ひとつ、構造の特徴ひとつです。形は欠けても、部分的に消えても、輪郭が途切れてもよく、見る人がゲシュタルトの閉合で自然に形を補います。筆致は均一な縁取りではなく、力と速さと方向のある書や木炭の跡で、鉛筆、ドライブラシ、紙の粒が少しあり、抜きの形ははっきりしていて、必要な幾何学の関係だけを残します。温かな白い紙に黒とグレーが中心で、淡い感情の色をひとつ加えます。記号はとても小さくても、中心からずれても、縁に寄っても、切れていてもよく、余白は非常に大きく、控えめな小さい文字か番号がひとつ添えられます。",
+    "traits": ["途切れた輪郭", "ゲシュタルト", "書の筆致", "木炭と鉛筆", "大胆な余白"],
+    "good": [
+      "輪郭だけで見分けられる主役：猫の横顔、人の後ろ姿、山の稜線",
+      "方向感がはっきりした対象：振り返る人、うつむいて草を食む鹿、斜めに飛ぶツバメ",
+      "アートブランドのマーク、個人の印、アーティストのサインのような記号にしたい写真"
+    ],
+    "poor": [
+      "輪郭があいまいで細部や色で見分ける写真（途切れさせると読めなくなります）",
+      "完全な描写や内容のはっきりした説明が必要な用途",
+      "商業アイコン、キャラクター、幾何学に寄りすぎた形、なめらかなベクターロゴを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "닫히는 암호",
+    "tagline": "사진 속 주인공을 윤곽이 끊겨 있어, 보는 사람이 스스로 채워 완성하는 시각 암호로 남깁니다.",
+    "look": "원본 사진은 남기고, 정체를 결정하는 형태만 남깁니다. 윤곽 하나, 자세 하나, 방향 하나, 구조적 특징 하나입니다. 형태는 빠지거나 부분적으로 사라지거나 윤곽이 끊겨도 되며, 보는 사람이 게슈탈트 폐합으로 스스로 형태를 완성합니다. 붓질은 고른 외곽선이 아니라 힘과 속도, 방향이 있는 서예와 목탄 자국이며, 흑연, 드라이 브러시, 종이 결이 조금 있고, 네거티브 형태는 또렷하며 꼭 필요한 기하 관계만 남깁니다. 따뜻한 흰 종이에 검정과 회색이 중심이고, 옅은 감정의 색 하나를 더합니다. 심벌은 아주 작거나 중심에서 비켜나거나 가장자리에 붙거나 잘려도 되고, 여백은 아주 넓으며, 절제된 작은 글자나 번호 하나가 붙습니다.",
+    "traits": ["끊긴 윤곽", "게슈탈트", "서예 붓질", "목탄과 흑연", "극단적 여백"],
+    "good": [
+      "윤곽만으로 알아보는 주인공: 고양이 옆모습, 사람의 뒷모습, 산의 능선",
+      "방향감이 뚜렷한 대상: 돌아서는 사람, 고개 숙여 풀 뜯는 사슴, 비스듬히 나는 제비",
+      "예술 브랜드 마크, 개인 인장, 작가 서명 같은 심벌로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "윤곽이 흐릿하고 디테일이나 색으로 구별되는 사진(끊기면 알아보기 어렵습니다)",
+      "완전한 묘사나 내용을 분명히 설명해야 하는 용도",
+      "상업 아이콘, 만화풍, 지나친 기하학, 매끈한 벡터 로고를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "شيفرة الإغلاق",
+    "tagline": "يترك العنصر الرئيسي في صورتك شيفرة بصرية بخط منقطع، يُكملها الناظر في ذهنه.",
+    "look": "تبقى صورتك، ولا يبقى إلا ما يحدد هويته: خط خارجي واحد أو وضعية أو اتجاه أو سمة بنيوية واحدة. قد تغيب أجزاء أو تتلاشى أو ينقطع الخط، فتُغلق العين الشكل من تلقاء نفسها كما في مبدأ الإغلاق في نظرية الجشطالت. الضربات خطية وفحمية فيها قوة وسرعة واتجاه، لا تحديد متساوٍ، مع قليل من الغرافيت والفرشاة الجافة وحبيبات الورق، ومساحات سالبة واضحة، ولا يبقى من الهندسة إلا الضروري. يغلب الأسود والرمادي على الورق الأبيض الدافئ، مع لون عاطفي باهت واحد. قد يكون الرمز صغيراً جداً أو بعيداً عن المركز أو ملاصقاً للحافة أو مقصوصاً، في فراغ شاسع، ومعه كلمة أو رقم صغير منضبط.",
+    "traits": ["خط منقطع", "إغلاق الجشطالت", "ضربة خطّية", "فحم وغرافيت", "فراغ واسع جداً"],
+    "good": [
+      "عناصر يكفي خطها الخارجي لتُعرف: قطة من الجانب، شخص من الخلف، هيئة جبل",
+      "أشياء لها اتجاه واضح: شخص يلتفت، غزال يخفض رأسه ليرعى، سنونو ينقضّ مائلاً",
+      "صور تريدها علامة لعلامة فنية أو ختماً شخصياً أو رمزاً يشبه توقيع فنان"
+    ],
+    "poor": [
+      "صور ذات خط خارجي غامض تعتمد على التفاصيل أو اللون، فتصير غير مقروءة حين ينقطع الخط",
+      "استخدامات تحتاج رسماً كاملاً أو شرحاً واضحاً للمحتوى",
+      "طلب أيقونات تجارية أو رسوم كرتونية أو هندسة مفرطة أو شعار متجهي ناعم"
+    ]
+  }
+}

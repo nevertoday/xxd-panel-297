@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-297
-description: "Create XXD Panel 297 raster artwork: a faithful photograph paired with one incomplete calligraphic cipher, broken contour, gestalt closure and a large blank field. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-297 or asks for this 闭合暗号 style."
+description: "XXD Panel 297｜Closure Cipher: keeps the photo and leaves its subject as one minimal visual cipher the viewer completes through Gestalt closure — only the identity-defining outline, posture, direction or structural feature, with gaps, broken contours and dissolving parts — drawn in calligraphic, gestural charcoal and graphite strokes with speed and direction plus a little dry brush and paper grain, clear negative shapes and only the geometry it needs, in black and grey on warm white with one faint emotional colour from the photo, very small, off-centre, at the edge or cropped in extreme whitespace, with a tiny restrained word or number. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-297 or asks for a Gestalt-closure mark, broken-outline calligraphic symbol or minimal charcoal cipher from a photo."
 ---
 
 # XXD Panel 297
